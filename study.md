@@ -42,7 +42,7 @@ in Rails.
 
 ```md
 The controller can be looked at as the ring leader.  It tells the different parts of
-the MVC what to do without doing all the work itself.  It's literally in the middle of everything.   
+the MVC what to do without doing all the work itself.  It's literally in the middle of everything.
 ```
 
 ## Define Router Responsiblities
